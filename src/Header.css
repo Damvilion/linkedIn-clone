@@ -36,4 +36,5 @@ header {
 
 .header_right {
   display: flex;
+  justify-content: center;
 }

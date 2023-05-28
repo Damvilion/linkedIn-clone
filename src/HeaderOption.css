@@ -2,7 +2,9 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin-right: 20px;
+  justify-content: center;
+  margin-right: 10px;
+  margin-left: 10px;
   color: gray;
   cursor: pointer;
 }
@@ -14,6 +16,7 @@
 .headerOption_title {
   font-size: 12px;
   font-weight: 400;
+  text-align: center;
 }
 
 .headerOption_icon {
